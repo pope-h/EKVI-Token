@@ -1,0 +1,15 @@
+{
+  "name": "ekvi-token",
+  "version": "1.0.0",
+  "description": "This is a contract to create a simple ERC20 token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekarika Nsemeke",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  }
+}
